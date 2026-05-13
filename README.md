@@ -26,3 +26,15 @@ The ultrasonic sensor continuously measures distance infront of the vehicle. If 
 - The vehicle stops
 - The buzzer activates
 If the path is clear, the vehicle continues moving forward.
+
+## Project Images
+
+![Front View](images/front_view.jpg)
+![Back View](images/back_view.jpg)
+![Side View 1](images/side_view_1.jpg)
+![Side View 2](images/side_view_2.jpg)
+![Top View](images/top_view.jpg)
+
+## Demo Video
+
+[Watch Demo on YouTube](https://youtu.be/R1nC_NmJV-8)
