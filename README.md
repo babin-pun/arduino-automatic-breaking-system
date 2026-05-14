@@ -38,3 +38,9 @@ If the path is clear, the vehicle continues moving forward.
 ## Demo Video
 
 [Watch Demo on YouTube](https://youtu.be/R1nC_NmJV-8)
+
+## Collaboration 
+
+This project was developed collaboratively as a two-person embedded systems prototype.
+
+
